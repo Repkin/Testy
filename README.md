@@ -8,7 +8,7 @@
 
 
 ### Streszczenie
-Aplikacja została stworzona i przetestowana w ramach zaliczenia przedmiotu _"Zaawansowane bazy danych"_. Jest to bardzo prosta aplikacja do podstawowej diagnostyki samochodu na podstawie trzech zmiennych. Testy aplikacji przeprowadziłem przy pomocy **JUnit**
+Aplikacja została stworzona i przetestowana w ramach zaliczenia przedmiotu _"Zaawansowane bazy danych"_. Jest to bardzo prosta aplikacja do podstawowej diagnostyki samochodu na podstawie trzech zmiennych. Testy aplikacji przeprowadziłem przy pomocy **JUnit**.
 
 ### Technologie
 
